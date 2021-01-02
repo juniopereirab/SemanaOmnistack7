@@ -17,4 +17,4 @@ cd SemanaOmnistack7
 cd Backend
 yarn dev
 ```
-Obs.: É necessário criar a pasta /uploads/resized/
+Obs.: É necessário criar a pasta `/uploads/resized/` dentro de `backend/` 
