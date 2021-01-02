@@ -14,7 +14,17 @@ cd SemanaOmnistack7
 **Backend**
 
 ```
-cd Backend
+cd backend
+yarn install
 yarn dev
 ```
 Obs.: É necessário criar a pasta `/uploads/resized/` dentro de `backend/` 
+
+
+**Frontend**
+
+```
+cd frontend
+yarn install
+yarn start
+```
